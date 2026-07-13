@@ -10,7 +10,7 @@ I am a B.Tech Computer Science & Engineering graduate with a passion for buildin
 
 * HTML5
 * CSS3
-* JavaScript (ES6+)
+* JavaScript
 * React.js
 * Responsive Web Design
 * Git & GitHub
@@ -20,7 +20,7 @@ I am a B.Tech Computer Science & Engineering graduate with a passion for buildin
 ### 🛒 Amazon Clone
 
 * Responsive Amazon homepage clone.
-* Built using HTML, CSS, and JavaScript.
+* Built using HTML, CSS.
 * Clean UI with Flexbox and CSS Grid.
 
 ### 💱 Currency Converter
@@ -35,8 +35,8 @@ Seeking an opportunity as a Frontend Developer where I can apply my skills, lear
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/ajeet22147
+* LinkedIn: www.linkedin.com/in/ajeet22147
+* Email: ajeetsingh22147@gmail.com
 
 ⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me!

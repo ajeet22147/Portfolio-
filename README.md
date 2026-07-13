@@ -1,8 +1,5 @@
 # Portfolio
-Portfolio
-</br>
-Tech Stack: HTML5 & CSS3
-</br>
+
 # Hi, I'm Ajeet Singh 👋
 
 ## Frontend Developer
